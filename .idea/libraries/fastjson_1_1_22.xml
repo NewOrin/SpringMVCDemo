@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="fastjson-1.1.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.1.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.1.23-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.1.22-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
